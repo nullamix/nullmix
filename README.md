@@ -27,14 +27,6 @@
 
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nullamix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)](https://github.com/nullamix)
-
-</div>
-
 ## 📝 Gists
 
 <table align="center">
@@ -50,6 +42,14 @@
 <div align="center">
 
 **[👉 View All My Gists](https://gist.github.com/nullamix)**
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nullamix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)](https://github.com/nullamix)
 
 </div>
 
