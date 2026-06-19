@@ -1,10 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm AmirHossein (nullmix)
+# 👋 Hi, I'm AmirHossein (nullamix)
 
 ### 🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🔧 Automation Advocate
 
-[![GitHub followers](https://img.shields.io/github/followers/nullamix?label=Follow&style=social)](https://github.com/nullamix)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nullamix@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahs)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/functastic)
+[![Blog](https://img.shields.io/badge/Blog-0A66C2?style=for-the-badge&logo=www&logoColor=white)](https://nullamix.ir)
+
 </div>
 
 ---
@@ -23,9 +27,29 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nullamix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![GitHub Trophies](https://trophy.ryglcloud.net/?username=nullamix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
+
+## 💼 About Me
+
+```python
+class DevOpsEngineer:
+    def __init__(self):
+        self.name = "nullamix"
+        self.role = "DevOps Engineer"
+        self.languages = ["Python", "Bash", "Go"]
+        self.containers = ["Docker", "Kubernetes"]
+        self.iac = ["Terraform", "Ansible"]
+        self.ci_cd = ["GitLab CI", "GitHub Actions"]
+        self.monitoring = ["Zabbix", "Prometheus", "Grafana", "ELK"]
+
+    def say_hi(self):
+        print("Thanks for dropping by!")
+
+me = DevOpsEngineer()
+me.say_hi()
+```
 
 ## 📝 Gists
 
@@ -50,36 +74,6 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nullamix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)](https://github.com/nullamix)
-
-</div>
-
-## 💼 About Me
-
-```python
-class DevOpsEngineer:
-    def __init__(self):
-        self.name = "nullamix"
-        self.role = "DevOps Engineer"
-        self.languages = ["Python", "Bash", "Go"]
-        self.containers = ["Docker", "Kubernetes"]
-        self.iac = ["Terraform", "Ansible"]
-        self.ci_cd = ["GitLab CI", "GitHub Actions"]
-        self.monitoring = ["Zabbix", "Prometheus", "Grafana", "ELK"]
-
-    def say_hi(self):
-        print("Thanks for dropping by!")
-
-me = DevOpsEngineer()
-me.say_hi()
-```
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nullamix@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahs)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/functastic)
 
 </div>
 
